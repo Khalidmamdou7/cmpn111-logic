@@ -12,4 +12,11 @@ simulation/
 *.qip
 *.qsys
 *.qdf
-*.qip
+*.qip`
+
+# ModelSim project files
+work/
+transcript
+*.mti
+*.mpf
+*.wlf
