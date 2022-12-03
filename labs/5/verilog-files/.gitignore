@@ -1,0 +1,22 @@
+# Quartus project files
+output_files/
+db/
+incremental_db/
+simulation/
+.qsys_edit/
+.qsys_sim/
+*.txt
+*.qws
+*.qpf
+*.qsf
+*.qip
+*.qsys
+*.qdf
+*.qip`
+
+# ModelSim project files
+work/
+transcript
+*.mti
+*.mpf
+*.wlf
