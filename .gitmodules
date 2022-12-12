@@ -1,0 +1,3 @@
+[submodule "floating-point-unit"]
+	path = floating-point-unit
+	url = https://github.com/Khalidmamdou7/floating-point-unit.git
